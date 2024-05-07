@@ -1,0 +1,20 @@
+git init                            - I'm initiating git on the specific folder
+git clone [http/ssh_of_repository]  - copying the whole repository to the local machine
+bit branch                          - make different version of repo code
+git branch -d [branch_name]         - deletes a branch
+git add [file_name]                 - lets you add 
+git commit -m [message]             - Add files to Git with commit message
+git push                            - Pushes files from git to git application
+git status                          - Shows status of files ready to be committed
+git log                             - Shows history of git commits
+git log --graph --oneline           - Shows graph view and summed up view of history of git commits
+git fetch                           - Fetches(updates) files from git application to git
+git pull                            - Fetches(updates) files from git to local machine
+git switch [branch name]            - Toggles between existing branches
+git checkout -b [branch_name]       - Creates new branch
+git branch -d [branch_name]         - Deletes branch
+
+*** learn later***
+git squash                          - Combines commits
+git rebase                          - Updates branched code from main code
+git merge                           - Updates branched code from main code
