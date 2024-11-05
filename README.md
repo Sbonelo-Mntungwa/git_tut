@@ -1,1 +1,1 @@
-# kego_git_tut
+# git_tut
